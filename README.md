@@ -1,5 +1,7 @@
 # JavaScript_Project_Snake_game
-This is Snake game built in HTML , CSS and JavaScript
+This is Snake game built in HTML , CSS and JavaScript <br/>
+Live link of the Project - https://javascript-snake-project.netlify.app/
+
 
 UI of the project 
 
